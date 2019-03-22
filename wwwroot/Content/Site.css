@@ -1,0 +1,10 @@
+﻿body {
+    padding-top: 50%;
+    padding-bottom: 20%;
+    background-image: url('/Images/8.jpg');
+    background-repeat: repeat;
+}
+.body-content{
+    padding-left: 15px;
+    padding-right: 15px;
+}

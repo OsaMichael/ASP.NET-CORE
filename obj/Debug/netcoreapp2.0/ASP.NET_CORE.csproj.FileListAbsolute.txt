@@ -1,0 +1,22 @@
+C:\Users\Michael\source\repos\ASP.NET_CORE\ASP.NET_CORE\bin\Debug\netcoreapp2.0\ASP.NET_CORE.deps.json
+C:\Users\Michael\source\repos\ASP.NET_CORE\ASP.NET_CORE\bin\Debug\netcoreapp2.0\ASP.NET_CORE.runtimeconfig.json
+C:\Users\Michael\source\repos\ASP.NET_CORE\ASP.NET_CORE\bin\Debug\netcoreapp2.0\ASP.NET_CORE.runtimeconfig.dev.json
+C:\Users\Michael\source\repos\ASP.NET_CORE\ASP.NET_CORE\bin\Debug\netcoreapp2.0\ASP.NET_CORE.dll
+C:\Users\Michael\source\repos\ASP.NET_CORE\ASP.NET_CORE\bin\Debug\netcoreapp2.0\ASP.NET_CORE.pdb
+C:\Users\Michael\source\repos\ASP.NET_CORE\ASP.NET_CORE\obj\Debug\netcoreapp2.0\ASP.NET_CORE.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\ASP.NET_CORE\ASP.NET_CORE\obj\Debug\netcoreapp2.0\ASP.NET_CORE.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\ASP.NET_CORE\ASP.NET_CORE\obj\Debug\netcoreapp2.0\ASP.NET_CORE.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\ASP.NET_CORE\ASP.NET_CORE\obj\Debug\netcoreapp2.0\ASP.NET_CORE.AssemblyInfo.cs
+C:\Users\Michael\source\repos\ASP.NET_CORE\ASP.NET_CORE\obj\Debug\netcoreapp2.0\ASP.NET_CORE.dll
+C:\Users\Michael\source\repos\ASP.NET_CORE\ASP.NET_CORE\obj\Debug\netcoreapp2.0\ASP.NET_CORE.pdb
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\ASP.NET_CORE\ASP.NET_CORE\bin\Debug\netcoreapp2.0\ASP.NET_CORE.deps.json
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\ASP.NET_CORE\ASP.NET_CORE\bin\Debug\netcoreapp2.0\ASP.NET_CORE.runtimeconfig.json
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\ASP.NET_CORE\ASP.NET_CORE\bin\Debug\netcoreapp2.0\ASP.NET_CORE.runtimeconfig.dev.json
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\ASP.NET_CORE\ASP.NET_CORE\bin\Debug\netcoreapp2.0\ASP.NET_CORE.dll
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\ASP.NET_CORE\ASP.NET_CORE\bin\Debug\netcoreapp2.0\ASP.NET_CORE.pdb
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\ASP.NET_CORE\ASP.NET_CORE\obj\Debug\netcoreapp2.0\ASP.NET_CORE.csprojAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\ASP.NET_CORE\ASP.NET_CORE\obj\Debug\netcoreapp2.0\ASP.NET_CORE.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\ASP.NET_CORE\ASP.NET_CORE\obj\Debug\netcoreapp2.0\ASP.NET_CORE.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\ASP.NET_CORE\ASP.NET_CORE\obj\Debug\netcoreapp2.0\ASP.NET_CORE.AssemblyInfo.cs
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\ASP.NET_CORE\ASP.NET_CORE\obj\Debug\netcoreapp2.0\ASP.NET_CORE.dll
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\ASP.NET_CORE\ASP.NET_CORE\obj\Debug\netcoreapp2.0\ASP.NET_CORE.pdb
